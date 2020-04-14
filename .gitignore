@@ -1,0 +1,6 @@
+# Project exclude paths
+/crowdfunding-bean/target/
+/crowdfunding-common/target/
+/crowdfunding-main/target/
+/crowdfunding-manager-api/target/
+/crowdfunding-manager-impl/target/
