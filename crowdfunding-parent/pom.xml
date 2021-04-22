@@ -45,7 +45,7 @@
 
         <!-- 基础框架 -->
         <spring.version>4.3.8.RELEASE</spring.version>
-        <mybatis.version>3.5.3</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis.spring.version>2.0.4</mybatis.spring.version>
 
         <!-- 分页 -->
